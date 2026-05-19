@@ -1,4 +1,4 @@
-# 🎰 Betting-Store-Analysis-Insights
+# 🎰 Betting Store Analysis & Insights
 #### This analysis explores the quarterly performance of a Retail Gaming Business over a multi-year period.
 #### ⚠️ I proved that the commission rate decreased over time by ~2.62%. 📉
 ----------------------------------------
