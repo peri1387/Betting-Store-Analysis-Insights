@@ -7,7 +7,7 @@
 ✔ Dataset description:
 - An anonymized dataset containing real quarterly sales and commission data from a retail gaming business (2017–2023).
 
-<img width="690" height="197" alt="Screenshot 2026-05-01 004459" src="https://github.com/user-attachments/assets/7cc84b46-c395-4b6f-ad6f-e7b004b16506" />
+<img width="1404" height="783" alt="Dashboard" src="https://github.com/user-attachments/assets/b4f4e6a0-8afc-462f-999a-73bd9f0fd62d" />
 
 The dataset includes:
 - dates
