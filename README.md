@@ -7,7 +7,7 @@
 ✔ Dataset description:
 - An anonymized dataset containing real quarterly sales and commission data from a retail gaming business (2017–2023).
 
-<img width="1404" height="783" alt="Dashboard" src="https://github.com/user-attachments/assets/b4f4e6a0-8afc-462f-999a-73bd9f0fd62d" />
+<img width="690" height="197" alt="dataframe" src="https://github.com/user-attachments/assets/4357f07b-4002-4c44-9a1c-7e9d0cb402e4" />
 
 The dataset includes:
 - dates
@@ -18,7 +18,7 @@ The dataset includes:
 
 ## MAIN DASHBOARD
 
-<img width="1403" height="780" alt="Betting-Store-dash" src="https://github.com/user-attachments/assets/a24040d0-5ebc-4525-b2ba-971c61a0f1f5" />
+<img width="1404" height="783" alt="Dashboard" src="https://github.com/user-attachments/assets/d449d06c-267a-46ae-a49a-9c03c8399b53" />
 
 ## Insights
 ## 📈 1. Overall Trend
